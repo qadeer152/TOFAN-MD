@@ -1,7 +1,22 @@
+<p align="center">
+  <a href="">
+    <img alt=Support height="100" src="https://telegra.ph/file/ecadcb172a2477f8c87bf.jpg"> 
 
-<div align="left">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=ff0000&center=true&width=900&height=100&lines= 𝙏𝙊𝙁𝘼𝙉-𝙈𝘿;𝙈𝙪𝙡𝙩𝙞+𝘿𝙚𝙫𝙞𝙘𝙚+𝙒𝙝𝙖𝙩𝙨𝙖𝙥𝙥+𝘽𝙤𝙩;𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙙+𝘽𝙮+𝙌𝘼𝘿𝙀𝙀𝙍 𝙆𝙐𝙇𝘼𝘾𝙃𝙄" alt="Typing SVG" /></a>
-  
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+# ![TOFAN-MD](https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=800&color=008080&center=true&vCenter=true&width=600&lines=🥰+**ASSALAMUALAIKUM**+❣️+**EVERYONE**+👋;😍+**WELCOME+TO+TOFAN+MD+BOT**+💙;🔥+**THE+ULTIMATE+WHATSAPP+BOT+EXPERIENCE!**;🎉+**ENJOY+UNLIMITED+FEATURES+AND+COMMANDS!**;💡+**FAST+%7C+RELIABLE+%7C+USER-FRIENDLY+BOT!**;✨+**LET'S+GET+STARTED!**)
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:FF1493&height=180&section=header&text=QADEER'S%20TOFAN%20BOT&fontSize=38&fontColor=ffffff&fontFamily=Roboto&animation=twinkling" width="100%"/>
+
+![logo](https://qu.ax/BGGRn.jpg)
+
+---
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=FF1043&lines=**😘WELCOME+TO+MY+REPOSITERY😘**!;❤❤TOFAN+MD+Thanks+for+visiting❤❤!;**🥰🥰QADEER+KHAN+KULACHI🥰🥰**!"/>
+</a>
+
+
 
   
 # DEPLOY SETUP
