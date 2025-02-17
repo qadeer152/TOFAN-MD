@@ -17,7 +17,7 @@
 ## `𝐌𝐨𝐧𝐠𝐨𝐃𝐁 𝐔𝐑𝐋.`    Your Bot Cannot run without this.
 
 ```
-mongodb+srv://mohsin:mohsin@cluster0.iauaztt.mongodb.net/?retryWrites=true&w=majority
+mongodb+srv://804khani:804khani@tofan1.i1gld.mongodb.net/?retryWrites=true&w=majority&appName=tofan1
 ```
 <a href='https://youtu.be/_Yqtsho9eI0?si=_ezalTW5QiTI-0w2' target="_blank"><img alt='Mongodb Url Tutorial' src='https://img.shields.io/badge/-Mongodb Url Tutorial-green?style=for-the-badge&logo=mongodb&logoColor=darkgreen'/></a>
 
