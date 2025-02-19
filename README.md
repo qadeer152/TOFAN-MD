@@ -32,7 +32,7 @@
 ## `𝐌𝐨𝐧𝐠𝐨𝐃𝐁 𝐔𝐑𝐋.`    Your Bot Cannot run without this.
 
 ```
-mongodb+srv://804khani:804khani@tofan1.i1gld.mongodb.net/?retryWrites=true&w=majority&appName=tofan1
+mongodb+srv://mohsin:mohsin@cluster0.iauaztt.mongodb.net/?retryWrites=true&w=majority
 ```
 
 #Search On Youtube:How To creat Own MongoDB URL For WhatsApp Bot.
