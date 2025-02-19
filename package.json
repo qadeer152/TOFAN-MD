@@ -68,10 +68,10 @@
                     },
                  "repository": {
                  "type": "git",
-                 "url": "git+https://github.com/Qadeer-bhai/TOFAN-MD.git"
+                 "url": "https://github.com/Qadeer-bhai/TOFAN-MD"
                   },
                  "bugs": {
-                 "url": "https://github.com/Qadeer-bhai/TOFAN-MD/issues"
+                 "url": "https://github.com/Qadeer-bhai/TOFAN-MD"
                   },
-                 "homepage": "https://github.com/Qadeer-bhai/TOFAN-MD#readme"
+                 "homepage": "https://github.com/Qadeer-bhai/TOFAN-MD/#readme"
                   }
