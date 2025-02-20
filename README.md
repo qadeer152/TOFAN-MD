@@ -34,7 +34,7 @@
 ### If Session Not Working Use This
 ### 3. New Session
 
-<a href='https://7b64de80-98ce-4c00-b614-f5e869ca1907-00-2bmf04bhcrlhk.pike.replit.dev/' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Long Session Generator-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a>
+src='https://img.shields.io/badge/Long Session Generator-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## `𝐌𝐨𝐧𝐠𝐨𝐃𝐁 𝐔𝐑𝐋.`    Your Bot Cannot run without this.
