@@ -26,8 +26,9 @@
 <a href='https://github.com/Qadeer-bhai/TOFAN-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 
 ### 2. SCAN QR CODE 
-<a href='https://legal-angeline-qadeer-khan-f4584d48.koyeb.app/' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Scan Qr code-black?style=for-the-badge&logo=opencv&logoColor=white'/></a>
-<a href='https://pair-testing-7444a4f955ac.herokuapp.com/' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Scan Qr code 2-black?style=for-the-badge&logo=qrcode&logoColor=white'/></a>
+<a href='https://legal-angeline-qadeer-khan-f4584d48.koyeb.app/' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Short Session Generator-red?style=for-the-badge&logo=opencv&logoColor=white'/></a>
+
+<a href='https://long-session-test-06008ff93f6d.herokuapp.com/' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Long Session Generator-green?style=for-the-badge&logo=opencv&logoColor=white'/></a>
 
 ## `𝐌𝐨𝐧𝐠𝐨𝐃𝐁 𝐔𝐑𝐋.`    Your Bot Cannot run without this.
 
