@@ -26,7 +26,7 @@
 <a href='https://github.com/Qadeer-bhai/TOFAN-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 
 ### 2. SCAN QR CODE 
-<a href='https://legal-angeline-qadeer-khan-f4584d48.koyeb.app/' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Short Session Generator-red?style=for-the-badge&logo=opencv&logoColor=white'/></a>
+<a href='domestic-jana-qadeer-khan-4a5e262d.koyeb.app/' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Short Session Generator-red?style=for-the-badge&logo=opencv&logoColor=white'/></a>
 
 <a href='https://long-session-test-06008ff93f6d.herokuapp.com/' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Long Session Generator-green?style=for-the-badge&logo=opencv&logoColor=white'/></a>
 
