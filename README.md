@@ -30,12 +30,7 @@
 
 <a href='https://long-session-test-06008ff93f6d.herokuapp.com/' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Long Session Generator-green?style=for-the-badge&logo=opencv&logoColor=white'/></a>
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-### If Session Not Working Use This
-### 3. New Session
 
-src='https://img.shields.io/badge/Long Session Generator-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## `𝐌𝐨𝐧𝐠𝐨𝐃𝐁 𝐔𝐑𝐋.`    Your Bot Cannot run without this.
 
