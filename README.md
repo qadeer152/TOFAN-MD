@@ -1,3 +1,55 @@
+<p align="center"> 
+  <p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee+Shade&size=25&pause=1000&background=FF000000&width=435&lines=THIS+IS+TOFAN+MD ❤️+;TOFAN-+MD 🎉;CREATED+𝗕Y+QADEER-KHAN ✔️" alt="Typing SVG" /></a>
+  </p>
+
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=▇+▇+▇+▇+▇+▇+▇)](https://git.io/typing-svg)
+<br>
+<p align="center"
+  <a href="https://github.com/Qadeer-bhai/TOFAN-MD">
+    
+  
+</p> 
+
+ <p align="center">
+<a href="https://github.com/Qadeer-bhai/followers"><img title="Followers" src="https://img.shields.io/github/followers/Qadeer-bhai?color=purple&style=flat-square"></a>
+<a href="https://github.com/Qadeer-bhai/TOFAN-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Qadeer-bhai/TOFAN-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/Qadeer-bhai/TOFAN-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Qadeer-bhai/TOFAN-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/Qadeer-bhai/TOFAN-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Qadeer-bhai/TOFAN-MD?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Qadeer-bhai/TOFAN-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/Qadeer-bhai/TOFAN-MD?style=flat-square&color=green"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Qadeer-bhai%2FTOFAN-MD&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/Qadeer-bhai/TOFAN-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;</a>
+<p align="center"><img src="https://profile-counter.glitch.me/{TOFAN-MD}/count.svg" alt="Qadeer-bhai :: Visitor's Count" old_src="https://profile-counter.glitch.me/{Qadeer-bhai}/count.svg" /></p>
+<p align="center">
+<a href="https://github.com/Qadeer-bhai/TOFAN-MD"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=darkpink"></a> &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=MALVIN-XD&label=VIEWS&style=flat-square&color=blue" />
+</a>
+<p align="center">
+  <a href="https://github.com/Qadeer-bhai/TOFAN-MD"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v2.0-darkcyan.svg?style=for-the-badge&logo=appveyor" /></a>
+
+<p align='center'>
+    </p>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="100" width="100%">
+
+
+**How to deploy**
+
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace-ExtraBold&color=blue&lines=🙏+𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+⭐+𝗥𝗘𝗣𝗢+⤵️)](https://git.io/typing-svg)
+
+*_Start by forking this repository to your own GitHub account. Click the button below to fork:_*
+
+  <a href="https://github.com/Qadeer-bhai/TOFAN-MD/fork"><img title="TOFAN-D" src="https://img.shields.io/badge/FORK-TOFAN-MDh?color=darkblue&style=for-the-badge&logo=stackshare"></a>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
+
+   
+
+____
+
+
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=𝐖𝐀𝐓𝐒𝐀𝐏𝐏+𝐁𝐎𝐓+𝐌𝐀𝐃𝐄+𝐁𝐘+𝐐𝐀𝐃𝐄𝐄𝐑" alt="Typing SVG" /></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
