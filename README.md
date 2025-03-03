@@ -1,3 +1,14 @@
+
+<p align='center'>
+    </p>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="100" width="100%">
+
+<p align="center">
+  <a href="">
+    <img alt=Support height="100" src="https://telegra.ph/file/ecadcb172a2477f8c87bf.jpg"> 
+
+___
+
 <p align="center"> 
   <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee+Shade&size=25&pause=1000&background=FF000000&width=435&lines=THIS+IS+TOFAN+MD ❤️+;TOFAN-+MD 🎉;CREATED+𝗕Y+QADEER-KHAN ✔️" alt="Typing SVG" /></a>
@@ -25,13 +36,7 @@
   <img src="https://komarev.com/ghpvc/?username=PUBG-MD&label=VIEWS&style=flat-square&color=blue" />
 </a>
 
-<p align='center'>
-    </p>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="100" width="100%">
-
-<p align="center">
-  <a href="">
-    <img alt=Support height="100" src="https://telegra.ph/file/ecadcb172a2477f8c87bf.jpg"> 
+___
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
