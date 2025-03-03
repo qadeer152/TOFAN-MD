@@ -7,6 +7,21 @@
   <a href="">
     <img alt=Support height="100" src="https://telegra.ph/file/ecadcb172a2477f8c87bf.jpg"> 
 
+
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+# ![TOFAN-MD](https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=800&color=008080&center=true&vCenter=true&width=600&lines=🥰+**ASSALAMUALAIKUM**+❣️+**EVERYONE**+👋;😍+**WELCOME+TO+TOFAN+MD+BOT**+💙;🔥+**THE+ULTIMATE+WHATSAPP+BOT+EXPERIENCE!**;🎉+**ENJOY+UNLIMITED+FEATURES+AND+COMMANDS!**;💡+**FAST+%7C+RELIABLE+%7C+USER-FRIENDLY+BOT!**;✨+**LET'S+GET+STARTED!**)
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:FF1493&height=180&section=header&text=QADEER'S%20TOFAN%20BOT&fontSize=38&fontColor=ffffff&fontFamily=Roboto&animation=twinkling" width="100%"/>
+
+![logo](https://qu.ax/BGGRn.jpg)
+
+---
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=FF1043&lines=**😘WELCOME+TO+MY+REPOSITERY😘**!;❤❤TOFAN+MD+Thanks+for+visiting❤❤!;**🥰🥰QADEER+KHAN+KULACHI🥰🥰**!"/>
+</a>
+
 ___
 
 <p align="center"> 
@@ -37,21 +52,6 @@ ___
 </a>
 
 ___
-
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-# ![TOFAN-MD](https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=800&color=008080&center=true&vCenter=true&width=600&lines=🥰+**ASSALAMUALAIKUM**+❣️+**EVERYONE**+👋;😍+**WELCOME+TO+TOFAN+MD+BOT**+💙;🔥+**THE+ULTIMATE+WHATSAPP+BOT+EXPERIENCE!**;🎉+**ENJOY+UNLIMITED+FEATURES+AND+COMMANDS!**;💡+**FAST+%7C+RELIABLE+%7C+USER-FRIENDLY+BOT!**;✨+**LET'S+GET+STARTED!**)
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:FF1493&height=180&section=header&text=QADEER'S%20TOFAN%20BOT&fontSize=38&fontColor=ffffff&fontFamily=Roboto&animation=twinkling" width="100%"/>
-
-![logo](https://qu.ax/BGGRn.jpg)
-
----
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=FF1043&lines=**😘WELCOME+TO+MY+REPOSITERY😘**!;❤❤TOFAN+MD+Thanks+for+visiting❤❤!;**🥰🥰QADEER+KHAN+KULACHI🥰🥰**!"/>
-</a>
-
 
 
   
