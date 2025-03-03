@@ -29,7 +29,7 @@ zokou({
     const { respond, prefix, nomAuteurMessage } = context;
     const commands = require(__dirname + "/../framework/zokou").cm;
 
-    let menu = 'TIMNASA TMD\n\n';
+    let menu = 'TOFAN MD\n\n';
     let keithList = [];
 
     // Loop through all commands to fetch the relevant information (commands, description, and aliases)
@@ -59,10 +59,10 @@ zokou({
         text: menu,
         contextInfo: {
             externalAdReply: {
-                title: "TIMNASA TMD",
-                body: "𝐫𝐞𝐠𝐚𝐫𝐝𝐬 TIMNASA-TMD",
-                thumbnailUrl: "https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31",
-                sourceUrl: "https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31",
+                title: "TOFAN MD",
+                body: "𝐫𝐞𝐠𝐚𝐫𝐝𝐬 TOFAN-MD",
+                thumbnailUrl: "https://whatsapp.com/channel/0029Vaw6yRaBPzjZPtVtA80A",
+                sourceUrl: "https://whatsapp.com/channel/0029Vaw6yRaBPzjZPtVtA80A",
                 mediaType: 1,
                 renderLargerThumbnail: true
             }
