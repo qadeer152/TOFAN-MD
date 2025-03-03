@@ -65,8 +65,8 @@ commands.forEach(_0x30efd7 => {
             'thumbnailUrl': "https://catbox.moe/bz9tzi.jpg",
             'mediaType': 0x1,
             'renderLargerThumbnail': true,
-            'mediaUrl': "https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31",
-            'sourceUrl': "https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31"
+            'mediaUrl': "https://whatsapp.com/channel/0029Vaw6yRaBPzjZPtVtA80A",
+            'sourceUrl': "https://whatsapp.com/channel/0029Vaw6yRaBPzjZPtVtA80A"
           }
         }
       });
