@@ -1,8 +1,8 @@
 {
   "name":"❂𝗧𝗢𝗙𝗔𝗡-𝗠𝗗❂",
-  "description":"Best whatsapp bot created by 𝚃𝙸𝙼𝙽𝙰𝚂𝙰-𝚃𝙴𝙲𝙷",
+  "description":"Best whatsapp bot created by 𝚃𝙾𝙵𝙰𝙽-𝙼𝙾𝙳𝚂",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://whatsapp.com/channel/0029Vaw6yRaBPzjZPtVtA80A",
+  "logo":"https://qu.ax/azDWQ.jpg",
   "repository":"https://github.com/Qadeer-bhai/TOFAN-MD",
   "succes_url":"/",
   "stack":"container",
@@ -16,7 +16,7 @@
 	  "ANTICALL":
     {
       "description":"Enter yes for your bot to reject calls",
-      "value":"no",
+      "value":"yes",
       "required":false
     },
          "AUTO_BIO":
@@ -40,19 +40,19 @@
 	  "AUTO_REACT":
     {
       "description":"Enter yes for your bot to auto react message in all chats",
-      "value":"no",
+      "value":"yes",
       "required":false
     },
 	  "AUDIO_REPLY":
     {
       "description":"Enter yes for your bot to auto reply audio in all chats",
-      "value":"no",
+      "value":"yes",
       "required":false
     },
 	  "AUTO_REPLY":
     {
       "description":"Enter yes for your bot to auto reply message when you are offline",
-      "value":"no",
+      "value":"yes",
       "required":false
     },
     "AUTO_READ_STATUS":
@@ -122,7 +122,7 @@
     "NUMERO_OWNER":
   {
     
-    "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
+    "desc": "Your number , dont put '+' and put you area code(exemple of togo '92')",
     "required":false,
     "value": "923079749129"
   },
@@ -179,4 +179,4 @@
       "plan": "heroku-postgresql:essential-0"
     }
   ]
-  }
+}
