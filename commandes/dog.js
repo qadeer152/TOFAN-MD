@@ -15,7 +15,7 @@ zokou({
          let res = await fetch('https://random.dog/woof.json')
          let json = await res.json()
          if (json.status) return await m.reply("*Request Denied!*")
-         m.bot.sendFileUrl(m.jid, json.url, "", m, { author: "timnasa md" }, "video");
+         m.bot.sendFileUrl(m.jid, json.url, "", m, { author: "tofan md" }, "video");
 
       } catch (e) { m.error(`${e}\n\nCommand: dog`, e, false) }
    });
