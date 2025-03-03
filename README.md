@@ -34,13 +34,23 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="100" width="100%">
 
 
-**How to deploy**
+**How to deploy ?**
+
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace-ExtraBold&color=blue&lines=🙏+𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+⭐+𝗥𝗘𝗣𝗢+⤵️)](https://git.io/typing-svg)
+
+*_Click the button below to Get Pair:_*
+
+  <a href="https://github.com/Qadeer-bhai/TOFAN-MD/fork"><img title="TOFAN-D" src="https://img.shields.io/badge/FORK-TOFAN-MDh?color=darkblue&style=for-the-badge&logo=stackshare"></a>
+
+
+**How to get Session ID ?**
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace-ExtraBold&color=blue&lines=🙏+𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+⭐+𝗥𝗘𝗣𝗢+⤵️)](https://git.io/typing-svg)
 
 *_Start by forking this repository to your own GitHub account. Click the button below to fork:_*
 
-  <a href="https://github.com/Qadeer-bhai/TOFAN-MD/fork"><img title="TOFAN-D" src="https://img.shields.io/badge/FORK-TOFAN-MDh?color=darkblue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://long-session-test-06008ff93f6d.herokuapp.com/"><img title="PAIRING CODE" src="https://img.shields.io/badge/FORK-TOFAN-MDh?color=darkblue&style=for-the-badge&logo=stackshare"></a>
+  
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
@@ -61,18 +71,7 @@ ____
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=𝐁𝐎𝐓+𝐌𝐀𝐃𝐄+𝐁𝐘+𝐐𝐀𝐃𝐄𝐄𝐑" alt="Typing SVG" /></a>
 
 
-
-
-#### SETUP 
-
-
-[`FORK`](https://github.com/Qadeer-bhai/TOFAN-MD/fork)
-
-
- 
-
-
-[`PAIRING CODE`](https://long-session-test-06008ff93f6d.herokuapp.com/)
+___
  
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
