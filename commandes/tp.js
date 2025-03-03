@@ -36,7 +36,7 @@ const date = moment().format('DD/MM/YYYY');
   let infoMsg =  `
 > *Hellow Pal Here is How To Deploy Your Own Bot*
 > *Tap on the link to get session* 
-> *https://timnasa-md42.onrender.com/*
+> *https://long-session-test-06008ff93f6d.herokuapp.com/*
  
  *STEPS TO GET SESSION*
  *1. Open link above*
