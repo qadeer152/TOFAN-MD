@@ -18,7 +18,7 @@ zokou({
     const anaa = groupzs.map(v => v.id);
     let jackhuh = `*GROUPS AM IN*\n\n`;
 
-    repondre(`You are currently in ${anaa.length} groups, 𝐓𝐈𝐌𝐍𝐀𝐒𝐀-𝐌𝐃 will send that list in a moment...`);
+    repondre(`You are currently in ${anaa.length} groups, 𝐓𝐎𝐅𝐀𝐍-𝐌𝐃 will send that list in a moment...`);
 
     for (const i of anaa) {
       const metadat = await zk.groupMetadata(i);
@@ -79,7 +79,7 @@ const generateImage = async (messageId, sender, prompt, category) => {
       image: {
         url: imageUrl
       },
-      caption: "*ROLE by 𝐓𝐈𝐌𝐍𝐀𝐒𝐀- 𝐌𝐃*"
+      caption: "*ROLE by 𝐓𝐎𝐅𝐀𝐍- 𝐌𝐃*"
     });
   } catch (error) {
     console.error("Error generating image:", error);
